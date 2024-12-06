@@ -1,0 +1,5 @@
+default:
+no         32588
+unknown     8597
+yes            3
+- default column can be removed
